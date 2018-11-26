@@ -1,0 +1,16 @@
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.deps.json
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Infrastructure.pdb
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Application.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Domain.Contracts.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Domain.Entities.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Application.pdb
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Domain.Contracts.pdb
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.0\Domain.Entities.pdb
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.csproj.CopyComplete
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.0\Infrastructure.pdb

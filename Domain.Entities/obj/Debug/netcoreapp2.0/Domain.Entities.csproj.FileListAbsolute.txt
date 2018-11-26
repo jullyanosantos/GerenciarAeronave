@@ -1,0 +1,9 @@
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\bin\Debug\netcoreapp2.0\Domain.Entities.deps.json
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\bin\Debug\netcoreapp2.0\Domain.Entities.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\bin\Debug\netcoreapp2.0\Domain.Entities.pdb
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.csprojAssemblyReference.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.AssemblyInfo.cs
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Domain.Entities\obj\Debug\netcoreapp2.0\Domain.Entities.pdb

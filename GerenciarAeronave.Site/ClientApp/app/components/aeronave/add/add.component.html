@@ -1,0 +1,40 @@
+﻿<h1>{{title}} Aeronave</h1>
+<hr />
+
+<form [formGroup]="aeronaveForm" (ngSubmit)="save()" #formDir="ngForm" novalidate>
+
+    <div class="form-group row">
+        <label class=" control-label col-md-12">Modelo</label>
+
+        <div class="col-md-4">
+            <input class="form-control" type="text" formControlName="modelo" Autofocus />
+        </div>
+        <span class="text-danger" *ngIf="modelo.invalid && formDir.submitted">
+            Modelo da Aeronave é obrigatória!
+        </span>
+    </div>
+
+    <div class="form-group row">
+        <label class="control-label col-md-12" for="quantidadeDePassageiros">Qt. Passageiros</label>
+        <div class="col-md-4">
+            <input class="form-control" type="text" formControlName="quantidadeDePassageiros" />
+        </div>
+        <span class="text-danger" *ngIf="quantidadeDePassageiros.invalid && formDir.submitted">
+            Quantidade de Passageiros é obrigatório!
+        </span>
+    </div>
+
+    <div class="form-group row">
+        <label class="control-label col-md-12" for="dataCriacao">Data de Criação</label>
+        <div class="col-md-4">
+            <input class="form-control" type="text" formControlName="dataCriacao" maxlength="19" readonly>
+        </div>
+        <!--<span class="text-danger" *ngIf="dataCriacao.invalid && formDir.submitted">
+            Data de Criação é obrigatória!
+        </span>-->
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-success"><i class="glyphicon glyphicon-ok"></i> Salvar</button>
+        <button class="btn btn-danger" (click)="cancel()"><i class="glyphicon glyphicon-remove"></i> Cancel</button>
+    </div>
+</form>

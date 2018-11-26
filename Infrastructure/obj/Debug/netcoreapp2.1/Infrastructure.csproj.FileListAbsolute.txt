@@ -1,0 +1,6 @@
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.deps.json
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\bin\Debug\netcoreapp2.1\Infrastructure.dll
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jullyano\source\repos\GerenciarAeronave\Infrastructure\obj\Debug\netcoreapp2.1\Infrastructure.AssemblyInfo.cs
